@@ -30,4 +30,6 @@ SpaceX’s Falcon 9 rocket has revolutionized space travel with its ability to r
   - `pandas` and `numpy` for data manipulation.  
   - `matplotlib` and `seaborn` for data visualization.  
   - `scikit-learn` for machine learning model development.  
-- **Jupyter Notebook**: For interactive coding and analysis.  
+- **Jupyter Notebook**: For interactive coding and analysis.
+
+#### Presentation Link - [Applied Data Science Capstone Presentation](https://drive.google.com/file/d/1ZjLyptCyd91hPrSyHnwU3NEGhZ3GcTPW/view?usp=sharing)
